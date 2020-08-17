@@ -1,0 +1,10 @@
+def name(x):
+  
+    
+    if x=="good":
+        return "good student"
+    elif x=="bad":
+        return "bad student"
+    else:
+        return "neither good nor bad"
+print(name("good"))
